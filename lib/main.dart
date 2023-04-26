@@ -127,7 +127,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         },
                       ),
                       backgroundImage: AssetImage("images/Bb.jpg"),
-                      radius: 40.0,
+                      radius: 41.0,
                     ),                                      
                 
                     Text(
